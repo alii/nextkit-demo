@@ -1739,10 +1739,10 @@ next@10.2.3, next@^10.2.3:
     vm-browserify "1.1.2"
     watchpack "2.1.1"
 
-nextkit@^1.0.3:
-  version "1.0.3"
-  resolved "https://registry.yarnpkg.com/nextkit/-/nextkit-1.0.3.tgz#0a83b72213c43e97b7be8761ea79587f748cb519"
-  integrity sha512-n9YSrUadWY17JXFflkOmZAPozOHwqdt7xDt5Noh9xOoeJgAx1G19jZOjGPXxNf8fcq9ZN9HNGecW+MXkhURMVQ==
+nextkit@^1.0.5:
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/nextkit/-/nextkit-1.0.5.tgz#41801b350e173e0320f4efd172924cac2f689e03"
+  integrity sha512-MGi+aujwQd6nwK1+CDnN62OM2/9qkOB9vhkmkI0Qp79pNH4h8mIU01/sEl1IgvrSzmnwKy/nOvYKm2saw4nCgw==
   dependencies:
     next "^10.2.3"
 
