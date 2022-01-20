@@ -13,6 +13,8 @@ module.exports = {
 	rules: {
 		'@typescript-eslint/comma-dangle': 'off',
 		'@typescript-eslint/triple-slash-reference': 'off',
+		'@typescript-eslint/ban-types': 'off',
+		'@typescript-eslint/naming-convention': 'off',
 	},
 	ignorePatterns: ['dist'],
 };
